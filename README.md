@@ -2,8 +2,6 @@
 
 This is a basic webpage layout created for demonstration purposes. The design is clean and minimal, with a focus on usability and aesthetics.
 
-![Website Screenshot](path_to_image/image.png)
-
 ## Sections
 
 ### 1. Header
